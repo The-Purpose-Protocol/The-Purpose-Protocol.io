@@ -49,4 +49,4 @@ To make the deployment easier and more manageable, I used Docker on a Kali Linux
 ```bash
 # Add your commands here
 pc1
-<img width="931" height="481" alt="image" src="https://github.com/user-attachments/assets/74e2bb3c-8439-45f6-b561-8b93371b183d" /> 
+<img width="931" height="481" alt="image" src="5890874094503268541.jpg"/> 
